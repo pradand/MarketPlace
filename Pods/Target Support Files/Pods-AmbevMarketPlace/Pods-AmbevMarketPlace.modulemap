@@ -1,0 +1,6 @@
+framework module Pods_AmbevMarketPlace {
+  umbrella header "Pods-AmbevMarketPlace-umbrella.h"
+
+  export *
+  module * { export * }
+}
